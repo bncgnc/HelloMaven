@@ -1,4 +1,8 @@
 helloworld
 tempgood
 
+<<<<<<< HEAD
 conflict make3
+=======
+conflict make2
+>>>>>>> 2edc2a51c88bc1a75a538d07f4ce57cd4ff9e1f3
