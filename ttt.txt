@@ -1,8 +1,4 @@
 helloworld
 tempgood
 
-<<<<<<< HEAD
-conflict make2
-=======
-conflict make1
->>>>>>> 814ea24b537b0852653c832d5e754b3f5273f18a
+conflict
